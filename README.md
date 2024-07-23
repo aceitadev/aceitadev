@@ -34,5 +34,5 @@
 
 ## 📈 **Estatísticas do GitHub**
 
-![Murilo's GitHub stats](https://github-readme-stats.vercel.app/api?username=aceitinha&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aceitinha&layout=compact&theme=radical)
+![Murilo's GitHub stats](https://github-readme-stats.vercel.app/api?username=aceitadev&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aceitadev&layout=compact&theme=radical)
