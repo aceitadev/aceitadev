@@ -1,5 +1,7 @@
 # 👋 Olá, me chamo **Murilo**
 
+[![Discord Presence](https://lanyard.kyrie25.me/api/1023766894257393775)](https://discord.com/users/1023766894257393775)
+
 ## 👤 **Sobre Mim**
 
 - 🌱 Atualmente sou desenvolvedor **Java**.
