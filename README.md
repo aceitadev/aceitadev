@@ -1,7 +1,6 @@
 # 👋 Olá, me chamo **Murilo**
 
-[![](https://visitcount.itsvg.in/api?id=aceitadev&label=Profile%20Views&color=1&icon=6&pretty=false)](https://visitcount.itsvg.in)
-
+[![](https://visitcount.itsvg.in/api?id=aceitadev&label=Visualiza%C3%A7%C3%B5es%20do%20Perfil&color=1&pretty=false)](https://visitcount.itsvg.in)
 
 ## 👤 **Sobre Mim**
 
