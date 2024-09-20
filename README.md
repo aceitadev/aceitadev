@@ -1,7 +1,6 @@
 # 👋 Olá, me chamo **Murilo**
 
-[![Discord Presence](https://lanyard.kyrie25.me/api/1023766894257393775?imgStyle=square&imgBorderRadius=500px)](https://discord.com/users/1023766894257393775)
-
+[![](https://visitcount.itsvg.in/api?id=aceitadev&label=Profile%20Views&color=1&icon=6&pretty=false)](https://visitcount.itsvg.in)
 ## 👤 **Sobre Mim**
 
 - 🌱 Atualmente sou desenvolvedor **Java**.
