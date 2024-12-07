@@ -1,22 +1,22 @@
-# 👋 Olá, me chamo **Murilo**
+# 👋 Hello, my name is **Murilo**
 
-[![](https://visitcount.itsvg.in/api?id=aceitadev&label=Visualiza%C3%A7%C3%B5es%20do%20Perfil&color=1&pretty=false)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=aceitadev&label=Profile%20Views&color=1&pretty=false)](https://visitcount.itsvg.in)
 
-## 👤 **Sobre Mim**
+## 👤 **About Me**
 
-- 🌱 Atualmente sou desenvolvedor **Java**.
-- ✨ Tenho um grande interesse em desenvolver addons para jogos, especialmente **Minecraft**.
-- 💡 Sempre em busca de aprender novas tecnologias e aprimorar minhas habilidades.
-- 🎮 Apaixonado por jogos e tecnologia.
+- 🌱 I am currently a **Java** developer.
+- ✨ I have a strong interest in developing addons for games, especially **Minecraft**.
+- 💡 Always looking to learn new technologies and improve my skills.
+- 🎮 Passionate about games and technology.
 
-## 📬 **Contato**
+## 📬 **Contact**
 
 - ✉️ **Email:** aceitadev@gmail.com
 - 🔮 **Discord:** 'aceita'
 
 -----
 
-## 🛠️ **Programas e Ferramentas**
+## 🛠️ **Tools and Software**
 
 ![Git](https://img.shields.io/badge/Git%20-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub%20-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -25,7 +25,7 @@
 
 -----
 
-## 💻 **Minhas Tecnologias**
+## 💻 **My Technologies**
 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
@@ -34,7 +34,7 @@
 
 -----
 
-## 📈 **Estatísticas do GitHub**
+## 📈 **GitHub Stats**
 
 ![Murilo's GitHub stats](https://github-readme-stats.vercel.app/api?username=aceitadev&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aceitadev&layout=compact&theme=radical)
