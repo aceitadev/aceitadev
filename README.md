@@ -1,5 +1,7 @@
 # 👋 Hello, I'm Murilo
 
+[![Profile Views](https://komarev.com/ghpvc/?username=aceitadev&color=blueviolet&style=flat-square&label=Profile+Views)](https://github.com/aceitadev)
+
 ## 👤 About Me
 
 - 🚀 Java developer with a passion for game development
@@ -37,12 +39,6 @@
 
 - 📧 Email: aceitadev@gmail.com
 - 💬 Discord: 'aceita'
-
----
-
-## 🐍 Contribution Snake
-
-![Snake animation](https://github.com/aceitadev/aceitadev/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
