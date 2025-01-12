@@ -17,8 +17,8 @@
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
-![Bukkit](https://img.shields.io/badge/Bukkit-%232B2B2B.svg?style=for-the-badge&logo=apachemaven&logoColor=white)
-![JDA](https://img.shields.io/badge/JDA-%23007ACC.svg?style=for-the-badge&logo=java&logoColor=white)
+![Bukkit](https://img.shields.io/badge/Bukkit-%232B2B2B.svg?style=for-the-badge&logo=data:image/png;base64,<base64_encoded_icon>&logoColor=white)
+![JDA](https://img.shields.io/badge/JDA-%23007ACC.svg?style=for-the-badge&logoColor=white)
 ![Discord.js](https://img.shields.io/badge/Discord.js-%232C2F33.svg?style=for-the-badge&logo=discord&logoColor=blue)
 
 ## 🔧 Tools & Environments
