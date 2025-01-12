@@ -30,19 +30,18 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<p align="start">
   <img src="https://github-readme-stats.vercel.app/api?username=aceitadev&show_icons=true&theme=radical" alt="Murilo's GitHub stats" />
 </p>
 
-<p align="center">
+<p align="start">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aceitadev&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ## 📫 Get in Touch
 
 - 📧 Email: aceitadev@gmail.com
-- 💬 Discord: [aceita](https://discord.com/channels/@me/1023766894257393775)
-
+- 💬 Discord: 'aceita'
 ---
 
 <p align="center">
