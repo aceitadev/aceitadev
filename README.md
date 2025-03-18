@@ -1,4 +1,4 @@
-o# 👋 Hello, I'm Murilo
+# 👋 Hello, I'm Murilo
 
 [![Profile Views](https://komarev.com/ghpvc/?username=aceitadev&color=blueviolet&style=flat-square&label=Profile+Views)](https://github.com/aceitadev)
 
