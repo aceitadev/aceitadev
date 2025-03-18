@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Murilo
+o# 👋 Hello, I'm Murilo
 
 [![Profile Views](https://komarev.com/ghpvc/?username=aceitadev&color=blueviolet&style=flat-square&label=Profile+Views)](https://github.com/aceitadev)
 
@@ -11,16 +11,7 @@
 
 ## 🛠️ Tech Stack  
 
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)  
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
-![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)  
-![Electron](https://img.shields.io/badge/Electron-%2320232a.svg?style=for-the-badge&logo=electron&logoColor=%2361DAFB)  
-![Bukkit](https://img.shields.io/badge/Bukkit-%232B2B2B.svg?style=for-the-badge&logo=data:image/png;base64,<base64_encoded_icon>&logoColor=white)  
-![JDA](https://img.shields.io/badge/JDA-%23007ACC.svg?style=for-the-badge&logoColor=white)  
-![Discord.js](https://img.shields.io/badge/Discord.js-%232C2F33.svg?style=for-the-badge&logo=discord&logoColor=blue)  
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white) ![Electron](https://img.shields.io/badge/Electron-%2320232a.svg?style=for-the-badge&logo=electron&logoColor=%2361DAFB) ![Bukkit](https://img.shields.io/badge/Bukkit-%232B2B2B.svg?style=for-the-badge&logo=data:image/png;base64,<base64_encoded_icon>&logoColor=white) ![JDA](https://img.shields.io/badge/JDA-%23007ACC.svg?style=for-the-badge&logoColor=white) ![Discord.js](https://img.shields.io/badge/Discord.js-%232C2F33.svg?style=for-the-badge&logo=discord&logoColor=blue)  
 
 ## 🔧 Tools & Environments  
 
