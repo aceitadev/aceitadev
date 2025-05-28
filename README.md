@@ -33,7 +33,7 @@
 ## 📫 Get in Touch  
 
 - 📧 Email: aceitadev@gmail.com  
-- 💬 Discord: 'aceita'  
+- 💬 Discord: (aceita)[https://discord.com/users/123456789012345678]
 ---
 
 <p align="center">
