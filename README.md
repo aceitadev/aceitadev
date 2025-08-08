@@ -8,7 +8,12 @@
 - 🎮 Passionate about **game development**, especially creating addons and plugins for **Minecraft**  
 - 🧠 Always learning and exploring new technologies  
 - 💻 Focused on backend, but with love for web development and desktop apps  
-- 🌌 Tech enthusiast, gamer, and curious mind  
+- 🌌 Tech enthusiast, gamer, and curious mind
+
+---
+
+📌 Projects I'm Proud Of:
+- 🅿️ [Precify](https://precify.shop) - Precify helps freelancers determine optimal project pricing based on experience, complexity, and market data.
 
 ---
 
