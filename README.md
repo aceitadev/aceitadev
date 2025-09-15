@@ -4,12 +4,12 @@
 
 ## 👨‍💻 About Me
 
-- 💁‍♂️ I'm 15 years old
-- 🚀 Backend developer specializing in **Java** and **Spring Boot**  
+- 💁‍♂️ I'm 15 years old  
+- 🚀 **Backend specialist** in **Java**, **Spring Boot** and **Express.js**  
 - 🎮 Passionate about **game development**, especially creating addons and plugins for **Minecraft**  
 - 🧠 Always learning and exploring new technologies  
 - 💻 Focused on backend, but with love for web development and desktop apps  
-- 🌌 Tech enthusiast, gamer, and curious mind
+- 🌌 Tech enthusiast, gamer, and curious mind  
 
 ---
 
@@ -29,13 +29,15 @@
 
 ### 🖥️ Frameworks & Libraries
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white) 
+![Express](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white) 
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white) 
 ![Electron](https://img.shields.io/badge/Electron-%2320232a.svg?style=for-the-badge&logo=electron&logoColor=%2361DAFB) 
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-%2306B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-%2306B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
 
 ### 🕹️ Game Dev & Bots
 ![Bukkit](https://img.shields.io/badge/Bukkit-%232B2B2B.svg?style=for-the-badge&logoColor=white) 
+![Fabric API](https://img.shields.io/badge/Fabric%20API-%2300A6A6.svg?style=for-the-badge&logoColor=white) 
 ![JDA](https://img.shields.io/badge/JDA-%23007ACC.svg?style=for-the-badge&logoColor=white) 
 ![Discord.js](https://img.shields.io/badge/Discord.js-%232C2F33.svg?style=for-the-badge&logo=discord&logoColor=blue)
 
