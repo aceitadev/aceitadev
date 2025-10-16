@@ -5,7 +5,7 @@
 ## 👨‍💻 About Me
 
 - 💁‍♂️ I'm 15 years old  
-- 🚀 **Backend specialist** in **Java**, **Spring Boot** and **Express.js**  
+- 🚀 **Backend specialist** in **Java** and **Express.js**  
 - 🎮 Passionate about **game development**, especially creating addons and plugins for **Minecraft**  
 - 🧠 Always learning and exploring new technologies  
 - 💻 Focused on backend, but with love for web development and desktop apps  
