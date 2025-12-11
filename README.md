@@ -14,7 +14,7 @@
 ---
 
 📌 Projects I'm Proud Of:
-- 🅿️ [Owl Client](https://owlclient.com.br)
+- 🦉 [Owl Client](https://owlclient.com.br)
 
 ---
 
