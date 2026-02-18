@@ -4,7 +4,7 @@
 
 ## 👨‍💻 About Me
 
-- 💁‍♂️ I'm 15 years old  
+- 💁‍♂️ I'm 16 years old  
 - 🚀 **Backend specialist** in **Java** and **Express.js**  
 - 🎮 Passionate about **game development**, especially creating addons and plugins for **Minecraft**  
 - 🧠 Always learning and exploring new technologies  
