@@ -4,7 +4,6 @@
 
 ## 👨‍💻 About Me
 
-- 💁‍♂️ I'm 16 years old  
 - 🚀 Backend-focused developer (Java, Node.js & Go)  
 - 🧠 Intermediate in Java, learning Go (Junior level)  
 - 🎮 Passionate about game development, especially Minecraft clients, plugins and performance  
