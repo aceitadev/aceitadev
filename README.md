@@ -49,20 +49,10 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aceitadev&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aceitadev&layout=compact&theme=radical" height="180"/>
-</div>
-
----
-
 ## 📫 Contact Me
 
 - ✉️ Email: [aceitadev@gmail.com](mailto:aceitadev@gmail.com)  
 - 💬 Discord: aceita  
-- 🔗 LinkedIn: www.linkedin.com/in/murilo-ribeiro-69b884397
 
 ---
 
